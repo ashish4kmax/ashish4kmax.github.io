@@ -1,0 +1,28 @@
+body {
+    background-color:  #eaf6f6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1,h3 {
+    color: #66bfbf;
+}
+
+p,table {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a:hover {
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#submitid:hover {
+    font-size: 15px;
+}
